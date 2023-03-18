@@ -1,6 +1,6 @@
 {
   "name": "@sudtanj/nestjs-typegoose",
-  "version": "10.1.4",
+  "version": "10.1.5",
   "description": "A nestjs module wrapper for typegoose updated by sudtanj",
   "repository": {
     "type": "git",
@@ -69,7 +69,7 @@
   "peerDependencies": {
     "@nestjs/common": "^9.2.0",
     "@nestjs/core": "^9.2.0",
-    "@typegoose/typegoose": "^10.3.2",
+    "@typegoose/typegoose": "^11.0.0-beta.1",
     "mongoose": "^6.0.0"
   },
   "engines": {
